@@ -1,0 +1,114 @@
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\bin\Debug\PIMS.exe
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\bin\Debug\PIMS.pdb
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\bin\Debug\PIMS.xml
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.exe
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.xml
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.pdb
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmlist.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuser.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashregistry.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmain.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmedicine.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmsalesreport.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmqty.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcash.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashierlogin.resources
+C:\Users\asus\Desktop\pharmacy\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuserlogin.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.exe
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.xml
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.pdb
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\bin\Debug\PIMS.exe
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\bin\Debug\PIMS.pdb
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\bin\Debug\PIMS.xml
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcash.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashierlogin.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashregistry.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmlist.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmain.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmedicine.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmqty.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmsalesreport.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuser.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuserlogin.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\asus\Desktop\pharmacy feb7\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmaddstock.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.exe
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.xml
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.pdb
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\bin\Debug\PIMS.exe
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\bin\Debug\PIMS.pdb
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\bin\Debug\PIMS.xml
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmaddstock.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcash.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashierlogin.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashregistry.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmlist.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmain.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmedicine.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmqty.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmsalesreport.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuser.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuserlogin.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\asus\Desktop\pharmacy feb8\WindowsApplication1\PIMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.exe.config
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\MySql.Data.DLL
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\Renci.SshNet.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\Renci.SshNet.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmaddstock.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcash.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashierlogin.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashregistry.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmlist.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmain.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmedicine.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmqty.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmsalesreport.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuser.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuserlogin.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbproj.GenerateResource.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbproj.CoreCompileInputs.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbproj.CopyComplete
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.exe.config
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.exe
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.pdb
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\PIMS.xml
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\MySql.Data.DLL
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\Renci.SshNet.dll
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\bin\Debug\Renci.SshNet.xml
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmaddstock.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcash.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashierlogin.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmcashregistry.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmlist.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmain.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmmedicine.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmqty.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmsalesreport.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuser.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.frmuserlogin.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.vbproj.Up2Date
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.exe
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.xml
+C:\Users\DELL\OneDrive\Desktop\personal\pharmacy_inventory_vbnet\pharmacy_inventory_vbnet\WindowsApplication1\PIMS\obj\x86\Debug\PIMS.pdb
